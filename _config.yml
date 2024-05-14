@@ -30,13 +30,17 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-cayman
-# theme: minima
+# theme: jekyll-theme-dinky
+# theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
 title: The title of your site
 description: A short description of your site's purpose
+
+exclude:
+  - README.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
