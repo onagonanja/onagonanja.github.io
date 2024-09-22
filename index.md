@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+## **Interests**
+- Computer Graphics Implementation Techniques
+
 ## **Links**
 - [blog](https://takepoyo2001.hatenablog.com/)
 - [github](https://github.com/onagonanja)
