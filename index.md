@@ -2,6 +2,9 @@
 layout: default
 ---
 
+## **Blog**
+- [hatena blog](https://takepoyo2001.hatenablog.com/)
+
 ## **Events Participated**
 
 - [Security mini-camp online 2021](https://www.security-camp.or.jp/minicamp/online2021.html)
