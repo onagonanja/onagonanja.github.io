@@ -2,16 +2,15 @@
 layout: default
 ---
 
-t
+## **Events Participated**
 
-## **参加したイベント**
+- [Security mini-camp online 2021](https://www.security-camp.or.jp/minicamp/online2021.html)
+- [Security Camp 2022 Online track C (Threat Analysis)](https://www.ipa.go.jp/jinzai/security-camp/2022/zenkoku/index.html)
+- [KLab Expert Camp 6：TCP/IP protocol stack self-development #4](https://klab-hr.snar.jp/jobboard/detail.aspx?id=ceG7Rw98wQU)
+- [Forcia Summer Internship 2024 Search Application Development Course](https://www.forcia.com/jobs/summerinternship2024/spook.html)
 
-- [セキュリティ・ミニキャンプ オンライン 2021](https://www.security-camp.or.jp/minicamp/online2021.html)
-- [セキュリティ・キャンプ全国大会2022 オンライン 脅威解析コース](https://www.ipa.go.jp/jinzai/security-camp/2022/zenkoku/index.html)
-- [KLab Expert Camp 第6回：TCP/IPプロトコルスタック自作開発 #4](https://klab-hr.snar.jp/jobboard/detail.aspx?id=ceG7Rw98wQU)
+## **Works**
 
-## **作ったものなど**
-
-- [ファミコンエミュレータ(作りかけ)](https://github.com/onagonanja/NES_emulator)
-- [大学生用匿名SNS Bubble (共同開発)](https://black014702.studio.site/)
-- [制作途中のパズルゲーム](https://unityroom.com/games/light_reflection20240514)
+- [Rasterization renderer in Rust](https://github.com/onagonanja/Rust-Tiny-Renderer)
+- [NES emulator (in the making)](https://github.com/onagonanja/NES_emulator)
+- [Anonymous SNS Bubble for college students (joint development)](https://black014702.studio.site/)
