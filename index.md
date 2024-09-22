@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-## **Blog**
-- [hatena blog](https://takepoyo2001.hatenablog.com/)
+## **Links**
+- [blog](https://takepoyo2001.hatenablog.com/)
+- [github](https://github.com/onagonanja)
 
 ## **Events Participated**
 
