@@ -1,22 +1,11 @@
----
-layout: default
----
-## **Interests**
-- Computer Graphics Implementation Techniques
+A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
+[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
 
-## **Links**
-- [blog](https://takepoyo2001.hatenablog.com/)
-- [github](https://github.com/onagonanja)
+You can **download** the theme here:
+[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
 
-## **Events Participated**
+You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-- [Security mini-camp online 2021](https://www.security-camp.or.jp/minicamp/online2021.html)
-- [Security Camp 2022 Online track C (Threat Analysis)](https://www.ipa.go.jp/jinzai/security-camp/2022/zenkoku/index.html)
-- [KLab Expert Camp 6：TCP/IP protocol stack self-development #4](https://klab-hr.snar.jp/jobboard/detail.aspx?id=ceG7Rw98wQU)
-- [Forcia Summer Internship 2024 Search Application Development Course](https://www.forcia.com/jobs/summerinternship2024/spook.html)
+You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-## **Works**
-
-- [Rasterization renderer in Rust](https://github.com/onagonanja/Rust-Tiny-Renderer)
-- [NES emulator (in the making)](https://github.com/onagonanja/NES_emulator)
-- [Anonymous SNS Bubble for college students (joint development)](https://black014702.studio.site/)
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
