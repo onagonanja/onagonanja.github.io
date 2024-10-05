@@ -6,6 +6,7 @@ layout: default
 
 ## **Links**
 - [blog](https://takepoyo2001.hatenablog.com/)
+- [zenn](https://zenn.dev/takepoyo?tab=scraps)
 - [github](https://github.com/onagonanja)
 
 ## **Events Participated**
