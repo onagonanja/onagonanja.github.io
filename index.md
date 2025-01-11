@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-## **Interests**
-- Computer Graphics Implementation Techniques
+
+<!-- ## **Interests**
+- Computer Graphics Implementation Techniques -->
 
 ## **Links**
+
 - [Hatena Blog](https://takepoyo2001.hatenablog.com/)
 - [Zenn](https://zenn.dev/takepoyo?tab=scraps)
 - [Github](https://github.com/onagonanja)
