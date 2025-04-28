@@ -20,6 +20,7 @@ layout: default
 
 ## **Works**
 
+- [SPH 3D fluid simulator](https://github.com/onagonanja/SPH_Fluid_simulation)
 - [Rasterization renderer in Rust](https://github.com/onagonanja/Rust-Tiny-Renderer)
 - [NES emulator (in the making)](https://github.com/onagonanja/NES_emulator)
 - [Anonymous SNS Bubble for college students (joint development)](https://black014702.studio.site/)
